@@ -1,8 +1,6 @@
 # Canadian Citizenship Test — Study Guide
 
-> Based on *Discover Canada: The Rights and Responsibilities of Citizenship*, the official study guide published by the Government of Canada.
-
----
+> Based on [*Discover Canada: The Rights and Responsibilities of Citizenship*](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html), the official study guide published by the Government of Canada.
 
 ## About the Test
 
@@ -49,4 +47,4 @@ Start with the **Cheat Sheet** for a quick overview, then work through each chap
 
 ---
 
-## Good luck! You've got this.
+Good luck! You've got this.
